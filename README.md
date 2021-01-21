@@ -23,7 +23,7 @@ Basic functionality works, rigorous tests are still needed.
 - **@ Version 0.3.0**\
 First usable version.\
 Basicaly a complete rewrite of TeensyStep for STM32 environment.\
-Using [STM32TimerArray](https://github.com/RockerM4NHUN/STM32TimerArray) for timing tasks.
+Using [STM32TimerArray](https://github.com/zomborid/STM32TimerArray) for timing tasks.
 
 
 
@@ -31,7 +31,7 @@ Using [STM32TimerArray](https://github.com/RockerM4NHUN/STM32TimerArray) for tim
 - [x] Adapt the timer sublibrary to STM32 platform
 - [x] Adapt GPIO handling
 - [x] Test functionality (only trial runs, no proper testing yet)
-- [x] Create a separate library from the timer sublibrary ([STM32TimerArray](https://github.com/RockerM4NHUN/STM32TimerArray))
+- [x] Create a separate library from the timer sublibrary ([STM32TimerArray](https://github.com/zomborid/STM32TimerArray))
 - [x] Adapt STM32Step to use the new timer library
 - [ ] *(Obsolete) Create hardware aided timer library with unchanged API (setup can differ)*
 - [ ] Measure performance (load, jitter, maximum performance) with different timer libs (STM32TimerArray, ported TickTimer)

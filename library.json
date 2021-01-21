@@ -5,13 +5,13 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/RockerM4NHUN/STM32Step"
+    "url": "https://github.com/zomborid/STM32Step"
   },
   "authors":
   {
     "name": "Zombori Dániel",
     "email": "rockerm4nhun@gmail.com",
-    "url": "https://github.com/RockerM4NHUN",
+    "url": "https://github.com/zomborid",
     "maintainer": true
   },
   "dependencies": {
